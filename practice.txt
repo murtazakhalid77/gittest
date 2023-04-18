@@ -4,4 +4,4 @@ changing
 
 again
 
-this is the commit in feature
+this is the commit in feature feature2
